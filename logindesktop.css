@@ -1,0 +1,17 @@
+*{
+    padding-top: 15px;
+}
+.btn{
+    color :  black;
+    /* border-radius : 50px; */
+    background : #FFC0D3;
+    font-weight: bold;
+}
+.header{
+    /* background: #FFC0D3; */
+}
+h4{
+    color : #ffff;
+    padding-top: 25px;
+    font-weight: bold;
+}
