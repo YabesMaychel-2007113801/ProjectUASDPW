@@ -1,0 +1,61 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+h4 {
+  padding-left: 2px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+svg path {
+  fill: #ffffff;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: large;
+}
+
+ul li {
+  padding-right: 30px;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+p {
+  font-weight: bold;
+}
+
+.btn-lg {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  color: black;
+  background-color: #ffc0d3;
+  font-weight: bold;
+  border: 0;
+  align-items: center;
+  width: 200px;
+}
+
+.help svg path{
+    fill: #ffc0d3;
+}
+
+.help {
+    position: fixed;
+    float: right;
+    right: 40px;
+    top: 500px;
+}
+
+.row {
+    background-color: #ffc0d3;
+    color:#ffffff;
+    font-weight: bold;
+    list-style-type: none;
+}
