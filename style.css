@@ -34,6 +34,10 @@ p {
     height: 100%;
 }
 
+.searchhelp {
+    width: 100%;
+}
+
 .searchbar input {
     text-indent: 42px;
 }
@@ -45,6 +49,14 @@ p {
 .searchbar .bi-search {
     position: absolute;
     left: 12px;
+}
+
+.searchhelp input {
+    text-indent: 46%;
+}
+
+.searchhelp .bi-search {
+    left: 42%;
 }
 
 .btn{
